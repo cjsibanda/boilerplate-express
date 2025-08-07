@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express();
-//test log
+//log "Hello World"
 console.log("Hello World");
 
 
